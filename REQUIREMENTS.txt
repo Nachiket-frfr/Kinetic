@@ -1,0 +1,250 @@
+================================================================
+  REPLOG — FULL PROJECT REQUIREMENTS
+  AI-Powered Fitness Platform
+================================================================
+
+----------------------------------------------------------------
+  CURRENT STATUS
+----------------------------------------------------------------
+[DONE]  Feature 5 — Gamification & Progression (Exercise-app-1 repo)
+          - XP & Level system
+          - Calendar heatmap (react-calendar-heatmap)
+          - Streak tracking
+          - GSAP Level-Up animation
+          - LocalStorage persistence
+
+----------------------------------------------------------------
+  NPM PACKAGES NEEDED (New — not in current repo)
+----------------------------------------------------------------
+
+  POSE TRACKING
+  -------------
+  @mediapipe/tasks-vision        → MediaPipe Pose Landmarker (WASM)
+  one-euro-filter                → Noise smoothing for landmark positions
+
+  CHARTING / ANALYTICS
+  --------------------
+  recharts                       → Workout volume graph, 1RM progress chart
+  react-chartjs-2                → Alternative (Chart.js wrapper)
+  chart.js                       → Peer dep for react-chartjs-2
+
+  BODY / MUSCLE HEATMAP
+  ----------------------
+  react-body-highlighter         → Muscle group overlay / fatigue heatmap
+
+  AUDIO ALERTS
+  ------------
+  (no package needed — use Web Audio API built into browser)
+
+  REST TIMER / ANIMATIONS
+  ------------------------
+  (GSAP already installed — reuse for timer animations)
+
+  ROUTING (for multi-page app)
+  ----------------------------
+  react-router-dom               → Navigate between features/screens
+
+  UTILITIES
+  ---------
+  zustand                        → Lightweight global state (replace localStorage juggling)
+  idb                            → IndexedDB wrapper (for larger workout history data)
+  date-fns                       → Date math for streaks, analytics, calendar
+
+  REMOVE (currently installed but unused)
+  ----------------------------------------
+  framer-motion                  → UNUSED — remove to reduce bundle
+  motion                         → UNUSED — remove to reduce bundle
+  canvas-confetti                → UNUSED — remove or use for achievements
+
+----------------------------------------------------------------
+  ASSETS / DATA NEEDED
+----------------------------------------------------------------
+
+  EXERCISE REFERENCE LIBRARY
+  ---------------------------
+  [ ] JSON file with reference joint angles per exercise, e.g.:
+      {
+        "squat": { "knee": [70, 160], "hip": [60, 170] },
+        "curl":  { "elbow": [30, 160] },
+        ...
+      }
+  [ ] Exercises to cover (minimum viable set):
+      - Squat
+      - Deadlift
+      - Bicep Curl
+      - Shoulder Press
+      - Push-up
+      - Lunge
+
+  MUSCLE GROUP MAPPING
+  --------------------
+  [ ] Map each exercise → which muscles are worked
+      e.g. Squat → [quadriceps, glutes, hamstrings]
+  [ ] Used to render fatigue heatmap on body diagram
+
+  FORM FEEDBACK MESSAGES
+  -----------------------
+  [ ] Text/audio alerts per exercise per error, e.g.:
+      "Squat: Knees caving inward — push knees out"
+      "Curl: Elbow flaring — keep elbow pinned"
+
+----------------------------------------------------------------
+  FEATURES LEFT TO BUILD
+----------------------------------------------------------------
+
+  FEATURE 1 — Live Workout Input & Motion Tracking
+  -------------------------------------------------
+  [ ] Camera access via getUserMedia()
+  [ ] Load MediaPipe Pose Landmarker model (WASM)
+  [ ] Draw pose skeleton overlay on <canvas>
+  [ ] Apply One Euro Filter to all 33 landmark coordinates
+  [ ] Output clean landmark stream at ~30fps
+  [ ] Handle: no camera permission, loading state, mobile/desktop
+
+  FEATURE 2 — Exercise Form & Rep Analysis
+  -----------------------------------------
+  [ ] Joint angle calculator (vector trigonometry)
+        formula: arccos( dot(v1,v2) / (|v1| * |v2|) )
+        joints needed: shoulder, elbow, hip, knee, ankle
+  [ ] Form scorer via Cosine Similarity
+        compare user angle sequence vs. reference sequence
+        output: accuracy % (0–100)
+  [ ] Rep detector
+        detect UP/DOWN phase transitions on joint angle curve
+        increment rep count on full cycle completion
+  [ ] Form feedback system
+        threshold-based alerts (e.g. knee angle < 60 = too deep)
+        visual highlight on skeleton + optional audio beep
+
+  FEATURE 3 — Live Set & Rest Management
+  ----------------------------------------
+  [ ] Live Set HUD component showing:
+        - Reps completed / target reps
+        - Current set / total sets
+        - Exercise velocity (landmark delta / time)
+        - Time under tension (TUT) timer
+        - Effort level / RPE (1–10, from velocity ratio)
+  [ ] "Set Complete" detection (user stops moving / manual tap)
+  [ ] Dynamic rest timer countdown after set
+  [ ] Rest tips display (random tip from tip library)
+  [ ] "Next set in X sec" alert
+
+  FEATURE 4 — Adaptive Fatigue Analysis
+  ---------------------------------------
+  [ ] Track rep velocity for each rep in a set (array)
+  [ ] Baseline = average velocity of first 3 reps
+  [ ] Fatigue detected if current velocity < baseline * 0.80
+  [ ] Fatigue levels: Normal → Warning → Fatigue Detected
+  [ ] Recommendation engine:
+        Normal      → "Keep going"
+        Warning     → "Slow down, focus on form"
+        Fatigue     → "Consider ending the set"
+  [ ] Pass fatigue data to analytics + muscle heatmap
+
+  FEATURE 6 — Analytics & Progress Monitoring
+  ---------------------------------------------
+  [ ] Muscle fatigue & recovery heatmap
+        body diagram colored by fatigue level per muscle
+        recovery estimate (e.g. 48h after high fatigue)
+  [ ] Workout volume graph (line/area chart)
+        X-axis: dates, Y-axis: total volume (sets×reps×weight)
+  [ ] 1RM Estimation progress chart
+        Epley formula: 1RM = weight * (1 + reps / 30)
+        track 1RM per exercise over time
+  [ ] Consistency tracking
+        already built in Feature 5 (streak + heatmap)
+        wire up to show real session data
+
+----------------------------------------------------------------
+  APP STRUCTURE NEEDED
+----------------------------------------------------------------
+
+  src/
+  ├── main.jsx
+  ├── App.jsx                      (router shell)
+  │
+  ├── pages/
+  │   ├── Dashboard.jsx            (home — stats overview)
+  │   ├── Workout.jsx              (live session — camera + HUD)
+  │   └── Analytics.jsx           (charts + muscle heatmap)
+  │
+  ├── features/
+  │   ├── gamification/            (current repo code)
+  │   │   ├── LevelUpModal.jsx
+  │   │   ├── levels.jsx
+  │   │   └── HeatmapSection.jsx
+  │   │
+  │   ├── pose/
+  │   │   ├── usePoseTracker.js    (MediaPipe hook)
+  │   │   ├── PoseCanvas.jsx       (skeleton overlay)
+  │   │   └── oneEuroFilter.js    (signal smoother)
+  │   │
+  │   ├── formAnalysis/
+  │   │   ├── jointAngles.js      (trig math)
+  │   │   ├── formScorer.js       (cosine similarity)
+  │   │   ├── repDetector.js      (phase detection)
+  │   │   └── formFeedback.jsx    (alert UI)
+  │   │
+  │   ├── setManager/
+  │   │   ├── LiveSetHUD.jsx
+  │   │   ├── RestTimer.jsx
+  │   │   └── useSetTracker.js
+  │   │
+  │   ├── fatigue/
+  │   │   ├── fatigueEngine.js
+  │   │   └── FatigueIndicator.jsx
+  │   │
+  │   └── analytics/
+  │       ├── VolumeChart.jsx
+  │       ├── OneRMChart.jsx
+  │       └── MuscleHeatmap.jsx
+  │
+  ├── data/
+  │   ├── exercises.json           (reference angles per exercise)
+  │   ├── muscleMap.json           (exercise → muscle group mapping)
+  │   └── formTips.json           (feedback messages per exercise)
+  │
+  ├── store/
+  │   └── useAppStore.js          (zustand global state)
+  │
+  └── index.css
+
+----------------------------------------------------------------
+  DECISIONS STILL NEEDED
+----------------------------------------------------------------
+
+  [ ] Weight input method
+        - Manual input before each set? (simplest)
+        - Barbell estimation from video? (complex, optional later)
+
+  [ ] Exercise selection flow
+        - User picks exercise from list before session starts?
+        - Auto-detect exercise from pose? (very complex — skip for now)
+
+  [ ] Data storage
+        - localStorage (current) — limited, lost on clear
+        - IndexedDB via idb — persistent, handles large history
+        - Backend/cloud — future scope?
+
+  [ ] Target device priority
+        - Mobile (camera on back/front) → landscape or portrait?
+        - Desktop (webcam) → typically front-facing, fixed angle
+
+  [ ] HTTPS for production
+        - getUserMedia() requires HTTPS (not HTTP)
+        - GitHub Pages supports HTTPS (free)
+        - Vercel recommended for easy deploy
+
+----------------------------------------------------------------
+  BUILD ORDER (Recommended)
+----------------------------------------------------------------
+
+  Phase 1 (NOW)       Feature 1 — Pose Tracking + Camera
+  Phase 2             Feature 2 — Form & Rep Analysis
+  Phase 3             Feature 3 — Live Set HUD + Rest Timer
+  Phase 4             Feature 4 — Fatigue Analysis
+  Phase 5 (DONE) ✅   Feature 5 — Gamification
+  Phase 6             Feature 6 — Analytics Dashboard
+  Phase 7             Wire all features together + routing
+
+================================================================
