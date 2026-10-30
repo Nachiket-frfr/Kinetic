@@ -1,0 +1,32 @@
+{
+  "squat": {
+    "primary":   ["quadriceps", "glutes"],
+    "secondary": ["hamstrings", "calves", "core"],
+    "display":   "Squat"
+  },
+  "deadlift": {
+    "primary":   ["hamstrings", "glutes", "lowerBack"],
+    "secondary": ["traps", "forearms", "core"],
+    "display":   "Deadlift"
+  },
+  "bicepCurl": {
+    "primary":   ["biceps"],
+    "secondary": ["forearms"],
+    "display":   "Bicep Curl"
+  },
+  "shoulderPress": {
+    "primary":   ["shoulders", "triceps"],
+    "secondary": ["traps", "core"],
+    "display":   "Shoulder Press"
+  },
+  "pushup": {
+    "primary":   ["chest", "triceps"],
+    "secondary": ["shoulders", "core"],
+    "display":   "Push-up"
+  },
+  "lunge": {
+    "primary":   ["quadriceps", "glutes"],
+    "secondary": ["hamstrings", "calves", "core"],
+    "display":   "Lunge"
+  }
+}

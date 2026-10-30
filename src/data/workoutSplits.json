@@ -1,0 +1,365 @@
+[
+  {
+    "id": "ppl-6day",
+    "name": "Push / Pull / Legs (PPL)",
+    "description": "High frequency, balanced hypertrophy & strength split hitting every muscle group twice per week.",
+    "daysPerWeek": 6,
+    "isCustom": false,
+    "days": [
+      {
+        "dayNumber": 1,
+        "name": "Push (Chest, Shoulders, Triceps)",
+        "focus": "Horizontal & Vertical Pressing",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "chest-press", "name": "Chest Press", "targetSets": 4, "targetReps": "8-10", "targetWeight": 50, "restSeconds": 90 },
+          { "exerciseKey": "incline-chest-press", "name": "Incline Chest Press", "targetSets": 3, "targetReps": "10-12", "targetWeight": 40, "restSeconds": 75 },
+          { "exerciseKey": "front-squat-to-overhead-press", "name": "Overhead Press", "targetSets": 4, "targetReps": "8-10", "targetWeight": 35, "restSeconds": 90 },
+          { "exerciseKey": "close-grip-bench-press", "name": "Close Grip Bench Press", "targetSets": 3, "targetReps": "10-12", "targetWeight": 40, "restSeconds": 60 },
+          { "exerciseKey": "bent-knee-push-up", "name": "Push-up Burnout", "targetSets": 3, "targetReps": "15-20", "targetWeight": 0, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "name": "Pull (Back, Biceps, Rear Delts)",
+        "focus": "Vertical & Horizontal Pulling",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "deadlift", "name": "Deadlift", "targetSets": 4, "targetReps": "5-8", "targetWeight": 80, "restSeconds": 120 },
+          { "exerciseKey": "bent-over-row", "name": "Bent-Over Row", "targetSets": 4, "targetReps": "8-10", "targetWeight": 50, "restSeconds": 90 },
+          { "exerciseKey": "chin-ups", "name": "Chin-ups", "targetSets": 3, "targetReps": "8-10", "targetWeight": 0, "restSeconds": 90 },
+          { "exerciseKey": "bicep-curl", "name": "Bicep Curl", "targetSets": 3, "targetReps": "10-12", "targetWeight": 20, "restSeconds": 60 },
+          { "exerciseKey": "hammer-curl", "name": "Hammer Curl", "targetSets": 3, "targetReps": "12-15", "targetWeight": 14, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "name": "Legs (Quads, Hamstrings, Calves)",
+        "focus": "Lower Body Power & Hypertrophy",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "back-squat", "name": "Back Squat", "targetSets": 4, "targetReps": "6-8", "targetWeight": 70, "restSeconds": 120 },
+          { "exerciseKey": "bulgarian-split-squat", "name": "Bulgarian Split Squat", "targetSets": 3, "targetReps": "10-12", "targetWeight": 16, "restSeconds": 90 },
+          { "exerciseKey": "forward-lunge", "name": "Forward Lunge", "targetSets": 3, "targetReps": "12-15", "targetWeight": 12, "restSeconds": 60 },
+          { "exerciseKey": "glute-bridge-single-leg-progression", "name": "Glute Bridge", "targetSets": 3, "targetReps": "15", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "calf-raises", "name": "Calf Raises", "targetSets": 4, "targetReps": "15-20", "targetWeight": 30, "restSeconds": 45 }
+        ]
+      },
+      {
+        "dayNumber": 4,
+        "name": "Push (Volume / Hypertrophy)",
+        "focus": "Deltoid & Pectoral Isolation",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "incline-chest-press", "name": "Incline Chest Press", "targetSets": 4, "targetReps": "10-12", "targetWeight": 45, "restSeconds": 90 },
+          { "exerciseKey": "lying-chest-fly", "name": "Lying Chest Fly", "targetSets": 3, "targetReps": "12-15", "targetWeight": 16, "restSeconds": 60 },
+          { "exerciseKey": "front-raise", "name": "Front Raise", "targetSets": 3, "targetReps": "12-15", "targetWeight": 10, "restSeconds": 60 },
+          { "exerciseKey": "diagonal-raise", "name": "Diagonal Raise", "targetSets": 3, "targetReps": "12", "targetWeight": 8, "restSeconds": 60 },
+          { "exerciseKey": "lying-barbell-triceps-extensions", "name": "Lying Triceps Extension", "targetSets": 4, "targetReps": "10-12", "targetWeight": 25, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 5,
+        "name": "Pull (Volume / Hypertrophy)",
+        "focus": "Upper Back & Bicep Density",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "high-row", "name": "High Row", "targetSets": 4, "targetReps": "10-12", "targetWeight": 45, "restSeconds": 75 },
+          { "exerciseKey": "kneeling-lat-pulldown", "name": "Kneeling Lat Pulldown", "targetSets": 4, "targetReps": "10-12", "targetWeight": 40, "restSeconds": 75 },
+          { "exerciseKey": "incline-reverse-fly", "name": "Incline Reverse Fly", "targetSets": 3, "targetReps": "12-15", "targetWeight": 10, "restSeconds": 60 },
+          { "exerciseKey": "bicep-curl", "name": "Bicep Curl", "targetSets": 4, "targetReps": "8-10", "targetWeight": 22, "restSeconds": 60 },
+          { "exerciseKey": "hammer-curl", "name": "Hammer Curl", "targetSets": 3, "targetReps": "12", "targetWeight": 14, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 6,
+        "name": "Legs & Core (Volume)",
+        "focus": "Quads, Posterior Chain & Abs",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "goblet-squat", "name": "Goblet Squat", "targetSets": 4, "targetReps": "12-15", "targetWeight": 24, "restSeconds": 75 },
+          { "exerciseKey": "lateral-lunge", "name": "Lateral Lunge", "targetSets": 3, "targetReps": "10-12", "targetWeight": 12, "restSeconds": 60 },
+          { "exerciseKey": "elevated-glute-bridge", "name": "Elevated Glute Bridge", "targetSets": 3, "targetReps": "12-15", "targetWeight": 20, "restSeconds": 60 },
+          { "exerciseKey": "front-plank", "name": "Front Plank", "targetSets": 3, "targetReps": "45-60s", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "crunch", "name": "Crunch", "targetSets": 3, "targetReps": "20", "targetWeight": 0, "restSeconds": 45 }
+        ]
+      },
+      {
+        "dayNumber": 7,
+        "name": "Rest & Active Recovery",
+        "focus": "Mobility & Restoration",
+        "isRest": true,
+        "exercises": [
+          { "exerciseKey": "childs-pose", "name": "Child's Pose", "targetSets": 3, "targetReps": "60s", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "cat-cow", "name": "Cat Cow", "targetSets": 3, "targetReps": "12", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "cobra", "name": "Cobra", "targetSets": 3, "targetReps": "30s", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "upper-lower-4day",
+    "name": "Upper / Lower Split",
+    "description": "The gold standard for athletic development and strength. 2 Upper body days and 2 Lower body days per week.",
+    "daysPerWeek": 4,
+    "isCustom": false,
+    "days": [
+      {
+        "dayNumber": 1,
+        "name": "Upper Power",
+        "focus": "Heavy Upper Compound Lifts",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "chest-press", "name": "Chest Press", "targetSets": 4, "targetReps": "6-8", "targetWeight": 65, "restSeconds": 120 },
+          { "exerciseKey": "bent-over-row", "name": "Bent-Over Row", "targetSets": 4, "targetReps": "6-8", "targetWeight": 60, "restSeconds": 120 },
+          { "exerciseKey": "front-squat-to-overhead-press", "name": "Overhead Press", "targetSets": 3, "targetReps": "6-8", "targetWeight": 40, "restSeconds": 90 },
+          { "exerciseKey": "chin-ups", "name": "Chin-ups", "targetSets": 3, "targetReps": "6-8", "targetWeight": 0, "restSeconds": 90 },
+          { "exerciseKey": "bicep-curl", "name": "Bicep Curl", "targetSets": 3, "targetReps": "8-10", "targetWeight": 22, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "name": "Lower Power",
+        "focus": "Heavy Lower Compound Lifts",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "back-squat", "name": "Back Squat", "targetSets": 4, "targetReps": "5-6", "targetWeight": 85, "restSeconds": 150 },
+          { "exerciseKey": "deadlift", "name": "Deadlift", "targetSets": 4, "targetReps": "5", "targetWeight": 95, "restSeconds": 150 },
+          { "exerciseKey": "bulgarian-split-squat", "name": "Bulgarian Split Squat", "targetSets": 3, "targetReps": "8-10", "targetWeight": 20, "restSeconds": 90 },
+          { "exerciseKey": "calf-raises", "name": "Calf Raises", "targetSets": 4, "targetReps": "12-15", "targetWeight": 40, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "name": "Mid-Week Recovery",
+        "focus": "Rest & Mobility",
+        "isRest": true,
+        "exercises": [
+          { "exerciseKey": "childs-pose", "name": "Child's Pose", "targetSets": 2, "targetReps": "60s", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "downward-facing-dog", "name": "Downward Facing Dog", "targetSets": 2, "targetReps": "45s", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      },
+      {
+        "dayNumber": 4,
+        "name": "Upper Hypertrophy",
+        "focus": "Moderate Weight High Rep Pump",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "incline-chest-press", "name": "Incline Chest Press", "targetSets": 4, "targetReps": "10-12", "targetWeight": 45, "restSeconds": 75 },
+          { "exerciseKey": "high-row", "name": "High Row", "targetSets": 4, "targetReps": "10-12", "targetWeight": 45, "restSeconds": 75 },
+          { "exerciseKey": "lying-chest-fly", "name": "Lying Chest Fly", "targetSets": 3, "targetReps": "12-15", "targetWeight": 14, "restSeconds": 60 },
+          { "exerciseKey": "lying-barbell-triceps-extensions", "name": "Lying Triceps Extension", "targetSets": 3, "targetReps": "12", "targetWeight": 20, "restSeconds": 60 },
+          { "exerciseKey": "hammer-curl", "name": "Hammer Curl", "targetSets": 3, "targetReps": "12", "targetWeight": 14, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 5,
+        "name": "Lower Hypertrophy",
+        "focus": "Quadriceps, Glute & Hamstring Volume",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "front-squat", "name": "Front Squat", "targetSets": 4, "targetReps": "8-10", "targetWeight": 55, "restSeconds": 90 },
+          { "exerciseKey": "forward-lunge", "name": "Forward Lunge", "targetSets": 3, "targetReps": "12", "targetWeight": 14, "restSeconds": 60 },
+          { "exerciseKey": "elevated-glute-bridge", "name": "Elevated Glute Bridge", "targetSets": 3, "targetReps": "12-15", "targetWeight": 25, "restSeconds": 60 },
+          { "exerciseKey": "front-plank", "name": "Front Plank", "targetSets": 3, "targetReps": "60s", "targetWeight": 0, "restSeconds": 45 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "full-body-3day",
+    "name": "Full Body (3-Day Essential)",
+    "description": "Time-efficient routine training the entire body every session with optimal rest between workout days (e.g. Mon / Wed / Fri).",
+    "daysPerWeek": 3,
+    "isCustom": false,
+    "days": [
+      {
+        "dayNumber": 1,
+        "name": "Full Body Workout A",
+        "focus": "Squat & Horizontal Push/Pull",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "back-squat", "name": "Back Squat", "targetSets": 4, "targetReps": "8", "targetWeight": 65, "restSeconds": 120 },
+          { "exerciseKey": "chest-press", "name": "Chest Press", "targetSets": 4, "targetReps": "8-10", "targetWeight": 50, "restSeconds": 90 },
+          { "exerciseKey": "bent-over-row", "name": "Bent-Over Row", "targetSets": 4, "targetReps": "8-10", "targetWeight": 50, "restSeconds": 90 },
+          { "exerciseKey": "bicep-curl", "name": "Bicep Curl", "targetSets": 3, "targetReps": "12", "targetWeight": 18, "restSeconds": 60 },
+          { "exerciseKey": "front-plank", "name": "Front Plank", "targetSets": 3, "targetReps": "45s", "targetWeight": 0, "restSeconds": 45 }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "name": "Full Body Workout B",
+        "focus": "Deadlift & Overhead Press",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "deadlift", "name": "Deadlift", "targetSets": 4, "targetReps": "6", "targetWeight": 85, "restSeconds": 150 },
+          { "exerciseKey": "front-squat-to-overhead-press", "name": "Overhead Press", "targetSets": 4, "targetReps": "8-10", "targetWeight": 35, "restSeconds": 90 },
+          { "exerciseKey": "chin-ups", "name": "Chin-ups", "targetSets": 3, "targetReps": "8", "targetWeight": 0, "restSeconds": 90 },
+          { "exerciseKey": "forward-lunge", "name": "Forward Lunge", "targetSets": 3, "targetReps": "12", "targetWeight": 12, "restSeconds": 60 },
+          { "exerciseKey": "lying-barbell-triceps-extensions", "name": "Lying Triceps Extension", "targetSets": 3, "targetReps": "10-12", "targetWeight": 20, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "name": "Full Body Workout C",
+        "focus": "Unilateral & Posterior Volume",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "goblet-squat", "name": "Goblet Squat", "targetSets": 4, "targetReps": "10-12", "targetWeight": 24, "restSeconds": 90 },
+          { "exerciseKey": "incline-chest-press", "name": "Incline Chest Press", "targetSets": 4, "targetReps": "10", "targetWeight": 40, "restSeconds": 75 },
+          { "exerciseKey": "high-row", "name": "High Row", "targetSets": 4, "targetReps": "10-12", "targetWeight": 45, "restSeconds": 75 },
+          { "exerciseKey": "bulgarian-split-squat", "name": "Bulgarian Split Squat", "targetSets": 3, "targetReps": "10", "targetWeight": 14, "restSeconds": 60 },
+          { "exerciseKey": "crunch", "name": "Crunch", "targetSets": 3, "targetReps": "25", "targetWeight": 0, "restSeconds": 45 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arnold-classic-6day",
+    "name": "Arnold Classic Split",
+    "description": "Antagonistic muscle pair training popularized by Arnold Schwarzenegger: Chest & Back, Shoulders & Arms, Legs & Abs.",
+    "daysPerWeek": 6,
+    "isCustom": false,
+    "days": [
+      {
+        "dayNumber": 1,
+        "name": "Chest & Back",
+        "focus": "Antagonist Superset Volume",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "chest-press", "name": "Chest Press", "targetSets": 4, "targetReps": "8-10", "targetWeight": 60, "restSeconds": 90 },
+          { "exerciseKey": "bent-over-row", "name": "Bent-Over Row", "targetSets": 4, "targetReps": "8-10", "targetWeight": 55, "restSeconds": 90 },
+          { "exerciseKey": "incline-chest-press", "name": "Incline Chest Press", "targetSets": 3, "targetReps": "10-12", "targetWeight": 45, "restSeconds": 75 },
+          { "exerciseKey": "chin-ups", "name": "Chin-ups", "targetSets": 3, "targetReps": "8-10", "targetWeight": 0, "restSeconds": 75 },
+          { "exerciseKey": "lying-chest-fly", "name": "Lying Chest Fly", "targetSets": 3, "targetReps": "12-15", "targetWeight": 16, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "name": "Shoulders & Arms",
+        "focus": "Deltoid, Bicep & Tricep Hypertrophy",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "front-squat-to-overhead-press", "name": "Overhead Press", "targetSets": 4, "targetReps": "8-10", "targetWeight": 35, "restSeconds": 90 },
+          { "exerciseKey": "front-raise", "name": "Front Raise", "targetSets": 3, "targetReps": "12-15", "targetWeight": 10, "restSeconds": 60 },
+          { "exerciseKey": "bicep-curl", "name": "Bicep Curl", "targetSets": 4, "targetReps": "8-10", "targetWeight": 22, "restSeconds": 60 },
+          { "exerciseKey": "lying-barbell-triceps-extensions", "name": "Lying Triceps Extension", "targetSets": 4, "targetReps": "8-10", "targetWeight": 25, "restSeconds": 60 },
+          { "exerciseKey": "hammer-curl", "name": "Hammer Curl", "targetSets": 3, "targetReps": "12", "targetWeight": 14, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "name": "Legs & Abs",
+        "focus": "Quad, Hamstring & Core Demolition",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "back-squat", "name": "Back Squat", "targetSets": 5, "targetReps": "6-8", "targetWeight": 80, "restSeconds": 120 },
+          { "exerciseKey": "deadlift", "name": "Deadlift", "targetSets": 4, "targetReps": "6", "targetWeight": 90, "restSeconds": 120 },
+          { "exerciseKey": "forward-lunge", "name": "Forward Lunge", "targetSets": 3, "targetReps": "12", "targetWeight": 14, "restSeconds": 60 },
+          { "exerciseKey": "calf-raises", "name": "Calf Raises", "targetSets": 4, "targetReps": "15", "targetWeight": 35, "restSeconds": 45 },
+          { "exerciseKey": "crunch", "name": "Crunch", "targetSets": 4, "targetReps": "25", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bodyweight-home-4day",
+    "name": "Home & Bodyweight Warrior",
+    "description": "Zero gym equipment required. Master pure calisthenics, core control, and unilateral bodyweight conditioning.",
+    "daysPerWeek": 4,
+    "isCustom": false,
+    "days": [
+      {
+        "dayNumber": 1,
+        "name": "Upper Body Strength",
+        "focus": "Push-up & Core Variations",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "bent-knee-push-up", "name": "Standard Push-up", "targetSets": 4, "targetReps": "15-20", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "close-grip-bench-press", "name": "Diamond / Close Push-up", "targetSets": 3, "targetReps": "10-12", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "front-plank", "name": "Front Plank", "targetSets": 4, "targetReps": "60s", "targetWeight": 0, "restSeconds": 45 },
+          { "exerciseKey": "bear-crawl", "name": "Bear Crawl", "targetSets": 3, "targetReps": "45s", "targetWeight": 0, "restSeconds": 60 }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "name": "Lower Body Calisthenics",
+        "focus": "Leg Endurance & Balance",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "bodyweight-squat", "name": "Bodyweight Squat", "targetSets": 4, "targetReps": "20-25", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "forward-lunge", "name": "Forward Lunge", "targetSets": 3, "targetReps": "15/leg", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "bulgarian-split-squat", "name": "Bulgarian Split Squat", "targetSets": 3, "targetReps": "12/leg", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "glute-bridge-single-leg-progression", "name": "Single Leg Glute Bridge", "targetSets": 3, "targetReps": "15/leg", "targetWeight": 0, "restSeconds": 45 }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "name": "High Intensity Core & Conditioning",
+        "focus": "Cardiovascular & Abdominal Stamina",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "burpee", "name": "Burpees", "targetSets": 4, "targetReps": "15", "targetWeight": 0, "restSeconds": 60 },
+          { "exerciseKey": "inchworms", "name": "Inchworms", "targetSets": 3, "targetReps": "10", "targetWeight": 0, "restSeconds": 45 },
+          { "exerciseKey": "crunch", "name": "Crunch", "targetSets": 4, "targetReps": "25", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "bird-dog", "name": "Bird Dog", "targetSets": 3, "targetReps": "12/side", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      },
+      {
+        "dayNumber": 4,
+        "name": "Mobility & Structural Alignment",
+        "focus": "Full Body Posture & Restoration",
+        "isRest": true,
+        "exercises": [
+          { "exerciseKey": "childs-pose", "name": "Child's Pose", "targetSets": 3, "targetReps": "60s", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "cobra", "name": "Cobra", "targetSets": 3, "targetReps": "45s", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "cat-cow", "name": "Cat Cow", "targetSets": 3, "targetReps": "15", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cardio-hiit",
+    "name": "Cardio HIIT & Aerobic Capacity",
+    "description": "High Intensity Interval Conditioning to incinerate body fat, maximize VO2 max, and build athletic endurance.",
+    "daysPerWeek": 3,
+    "isCustom": false,
+    "days": [
+      {
+        "dayNumber": 1,
+        "name": "HIIT Sprint & Core",
+        "focus": "Explosive Interval Metcon",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "burpee", "name": "Burpees", "targetSets": 4, "targetReps": "20", "targetWeight": 0, "restSeconds": 45 },
+          { "exerciseKey": "bodyweight-squat", "name": "Jump Squats", "targetSets": 4, "targetReps": "25", "targetWeight": 0, "restSeconds": 45 },
+          { "exerciseKey": "bent-knee-push-up", "name": "Speed Push-ups", "targetSets": 4, "targetReps": "20", "targetWeight": 0, "restSeconds": 45 },
+          { "exerciseKey": "crunch", "name": "V-Up Crunches", "targetSets": 4, "targetReps": "30", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "front-plank", "name": "High Plank Hold", "targetSets": 3, "targetReps": "60s", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "name": "Cardio Calisthenics",
+        "focus": "Continuous Circuit Conditioning",
+        "isRest": false,
+        "exercises": [
+          { "exerciseKey": "forward-lunge", "name": "Walking Lunges", "targetSets": 4, "targetReps": "20/leg", "targetWeight": 0, "restSeconds": 45 },
+          { "exerciseKey": "inchworms", "name": "Inchworms", "targetSets": 3, "targetReps": "12", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "bear-crawl", "name": "Bear Crawl Shuttles", "targetSets": 3, "targetReps": "45s", "targetWeight": 0, "restSeconds": 45 }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "name": "Aerobic Recovery & Flush",
+        "focus": "Active Parasympathetic Recovery",
+        "isRest": true,
+        "exercises": [
+          { "exerciseKey": "childs-pose", "name": "Child's Pose", "targetSets": 3, "targetReps": "60s", "targetWeight": 0, "restSeconds": 30 },
+          { "exerciseKey": "cobra", "name": "Cobra", "targetSets": 3, "targetReps": "45s", "targetWeight": 0, "restSeconds": 30 }
+        ]
+      }
+    ]
+  }
+]
+

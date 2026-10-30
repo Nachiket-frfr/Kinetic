@@ -1,0 +1,4125 @@
+{
+  "bent-knee-push-up": {
+    "id": 13,
+    "slug": "bent-knee-push-up",
+    "title": "Bent Knee Push Up",
+    "display": "Bent Knee Push Up (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/13/bent-knee-push-up/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/13-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/13-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Bent Knee Push Up. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bottom-up-press": {
+    "id": 396,
+    "slug": "bottom-up-press",
+    "title": "Bottom Up Press",
+    "display": "Bottom Up Press (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/396/bottom-up-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/396-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/396-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Bottom Up Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "cat-cow": {
+    "id": 15,
+    "slug": "cat-cow",
+    "title": "Cat Cow",
+    "display": "Cat Cow (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/15/cat-cow/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/15-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/15-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Cat Cow. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "chest-press": {
+    "id": 19,
+    "slug": "chest-press",
+    "title": "Chest Press",
+    "display": "Chest Press (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/19/chest-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/19-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/19-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Chest Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "ckc-parascapular-exercises": {
+    "id": 259,
+    "slug": "ckc-parascapular-exercises",
+    "title": "CKC Parascapular Exercises",
+    "display": "CKC Parascapular Exercises (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/259/ckc-parascapular-exercises/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/259-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/259-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for CKC Parascapular Exercises. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "close-grip-bench-press": {
+    "id": 311,
+    "slug": "close-grip-bench-press",
+    "title": "Close Grip Bench Press",
+    "display": "Close Grip Bench Press (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/311/close-grip-bench-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/311-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/311-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Close Grip Bench Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "halo": {
+    "id": 394,
+    "slug": "halo",
+    "title": "Halo",
+    "display": "Halo (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/394/halo/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/394-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/394-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Halo. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "inchworms": {
+    "id": 254,
+    "slug": "inchworms",
+    "title": "Inchworms",
+    "display": "Inchworms (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/254/inchworms/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/254-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/254-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Inchworms. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "incline-chest-press": {
+    "id": 25,
+    "slug": "incline-chest-press",
+    "title": "Incline Chest Press",
+    "display": "Incline Chest Press (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/25/incline-chest-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/25-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/25-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Incline Chest Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "lying-chest-fly": {
+    "id": 21,
+    "slug": "lying-chest-fly",
+    "title": "Lying Chest Fly",
+    "display": "Lying Chest Fly (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/21/lying-chest-fly/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/21-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/21-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Lying Chest Fly. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "lying-pullovers": {
+    "id": 37,
+    "slug": "lying-pullovers",
+    "title": "Lying Pullovers",
+    "display": "Lying Pullovers (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/37/lying-pullovers/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/37-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/37-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Lying Pullovers. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "90-lat-stretch": {
+    "id": 198,
+    "slug": "90-lat-stretch",
+    "title": "90 Lat Stretch",
+    "display": "90 Lat Stretch (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/198/90-lat-stretch/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/198-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/198-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for 90 Lat Stretch. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bent-over-row": {
+    "id": 12,
+    "slug": "bent-over-row",
+    "title": "Bent Over Row",
+    "display": "Bent Over Row (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/12/bent-over-row/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/12-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/12-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Bent Over Row. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bird-dog": {
+    "id": 14,
+    "slug": "bird-dog",
+    "title": "Bird Dog",
+    "display": "Bird Dog (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/14/bird-dog/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/14-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/14-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Bird Dog. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "childs-pose": {
+    "id": 227,
+    "slug": "childs-pose",
+    "title": "Childs Pose",
+    "display": "Childs Pose (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/227/childs-pose/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/227-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/227-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Childs Pose. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "chin-ups": {
+    "id": 190,
+    "slug": "chin-ups",
+    "title": "Chin Ups",
+    "display": "Chin Ups (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/190/chin-ups/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/190-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/190-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Chin Ups. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "cobra": {
+    "id": 16,
+    "slug": "cobra",
+    "title": "Cobra",
+    "display": "Cobra (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/16/cobra/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/16-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/16-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Cobra. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "contralateral-limb-raises": {
+    "id": 53,
+    "slug": "contralateral-limb-raises",
+    "title": "Contralateral Limb Raises",
+    "display": "Contralateral Limb Raises (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/53/contralateral-limb-raises/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/53-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/53-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Contralateral Limb Raises. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "downward-facing-dog": {
+    "id": 18,
+    "slug": "downward-facing-dog",
+    "title": "Downward Facing Dog",
+    "display": "Downward Facing Dog (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/18/downward-facing-dog/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/18-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/18-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Downward Facing Dog. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "front-plank": {
+    "id": 32,
+    "slug": "front-plank",
+    "title": "Front Plank",
+    "display": "Front Plank (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/32/front-plank/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/32-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/32-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Front Plank. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "front-squat": {
+    "id": 22,
+    "slug": "front-squat",
+    "title": "Front Squat",
+    "display": "Front Squat (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/22/front-squat/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/22-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/22-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Front Squat. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "glute-bridge-single-leg-progression": {
+    "id": 145,
+    "slug": "glute-bridge-single-leg-progression",
+    "title": "Glute Bridge Single Leg Progression",
+    "display": "Glute Bridge Single Leg Progression (ACE)",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/145/glute-bridge-single-leg-progression/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/145-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/145-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Gluteus Maximus",
+      "Hamstrings"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Lats",
+      "Forearms",
+      "Core"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "targetAngle": "75° - 85°",
+    "formCue": "Hinge at hips with flat back; push floor away through heels.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Glute Bridge Single Leg Progression. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Hinge at hips with flat back; push floor away through heels."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "barbell-jammers": {
+    "id": 236,
+    "slug": "barbell-jammers",
+    "title": "Barbell Jammers",
+    "display": "Barbell Jammers (ACE)",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/236/barbell-jammers/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/236-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/236-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Barbell Jammers. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "diagonal-raise": {
+    "id": 371,
+    "slug": "diagonal-raise",
+    "title": "Diagonal Raise",
+    "display": "Diagonal Raise (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/371/diagonal-raise/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/371-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/371-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Diagonal Raise. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "front-raise": {
+    "id": 54,
+    "slug": "front-raise",
+    "title": "Front Raise",
+    "display": "Front Raise (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/54/front-raise/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/54-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/54-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Front Raise. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "high-plank-t-spine-rotation": {
+    "id": 330,
+    "slug": "high-plank-t-spine-rotation",
+    "title": "High Plank T Spine Rotation",
+    "display": "High Plank T Spine Rotation (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/330/high-plank-t-spine-rotation/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/330-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/330-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for High Plank T Spine Rotation. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bicep-curl": {
+    "id": 70,
+    "slug": "bicep-curl",
+    "title": "Barbell / Dumbbell Bicep Curl",
+    "display": "Bicep Curl (ACE)",
+    "category": "Arms",
+    "equipment": "Dumbbells / Barbell",
+    "difficulty": "Beginner",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/70/bicep-curl/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/70-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/70-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Biceps Brachii"
+    ],
+    "secondaryMuscles": [
+      "Brachialis",
+      "Brachioradialis",
+      "Anterior Deltoid"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 155,
+      "up": 40
+    },
+    "targetAngle": "35° - 45°",
+    "formCue": "Pin elbows to ribcage and eliminate torso swing.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Stand tall with feet hip-width apart. Hold weights with supinated grip (palms facing forward). Pin elbows firmly against the sides of your ribcage, shoulders retracted and depressed."
+      },
+      {
+        "phase": "Curling Phase (Concentric)",
+        "instruction": "Exhale and curl the weight upward toward shoulder level by flexing elbows. Keep upper arms completely motionless and perpendicular to floor. Torso remains strictly vertical without swinging."
+      },
+      {
+        "phase": "Peak Contraction",
+        "instruction": "Squeeze biceps firmly at top of range of motion (elbow angle ~35-45°). Do not allow wrists to hyperextend or shoulders to roll forward."
+      },
+      {
+        "phase": "Lowering Phase (Eccentric)",
+        "instruction": "Inhale while lowering weights under strict control over a 2-3 second tempo until elbows reach full comfortable extension (~160-170°)."
+      }
+    ]
+  },
+  "hammer-curl": {
+    "id": 10,
+    "slug": "hammer-curl",
+    "title": "Hammer Curl",
+    "display": "Hammer Curl (ACE)",
+    "category": "Arms",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/10/hammer-curl/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/10-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/10-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Biceps Brachii",
+      "Brachialis"
+    ],
+    "secondaryMuscles": [
+      "Brachioradialis",
+      "Forearm Flexors"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 155,
+      "up": 40
+    },
+    "targetAngle": "35° - 45°",
+    "formCue": "Pin elbows to ribcage and eliminate torso swing.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Hammer Curl. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Pin elbows to ribcage and eliminate torso swing."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "lying-barbell-triceps-extensions": {
+    "id": 36,
+    "slug": "lying-barbell-triceps-extensions",
+    "title": "Lying Barbell Triceps Extensions",
+    "display": "Lying Barbell Triceps Extensions (ACE)",
+    "category": "Arms",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/36/lying-barbell-triceps-extensions/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/36-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/36-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Triceps Brachii"
+    ],
+    "secondaryMuscles": [
+      "Anterior Deltoids"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 60,
+      "up": 165
+    },
+    "targetAngle": "165° - 175°",
+    "formCue": "Lock upper arms stationary and extend from elbows only.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Lying Barbell Triceps Extensions. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock upper arms stationary and extend from elbows only."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "overhead-triceps-stretch": {
+    "id": 174,
+    "slug": "overhead-triceps-stretch",
+    "title": "Overhead Triceps Stretch",
+    "display": "Overhead Triceps Stretch (ACE)",
+    "category": "Arms",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/174/overhead-triceps-stretch/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/174-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/174-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Triceps Brachii"
+    ],
+    "secondaryMuscles": [
+      "Anterior Deltoids"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 60,
+      "up": 165
+    },
+    "targetAngle": "165° - 175°",
+    "formCue": "Lock upper arms stationary and extend from elbows only.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Overhead Triceps Stretch. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock upper arms stationary and extend from elbows only."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "agility-ladder-lateral-shuffle": {
+    "id": 170,
+    "slug": "agility-ladder-lateral-shuffle",
+    "title": "Agility Ladder Lateral Shuffle",
+    "display": "Agility Ladder Lateral Shuffle (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/170/agility-ladder-lateral-shuffle/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/170-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/170-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Agility Ladder Lateral Shuffle. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "alternate-leg-push-off": {
+    "id": 246,
+    "slug": "alternate-leg-push-off",
+    "title": "Alternate Leg Push Off",
+    "display": "Alternate Leg Push Off (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/246/alternate-leg-push-off/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/246-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/246-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Alternate Leg Push Off. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "back-squat": {
+    "id": 11,
+    "slug": "back-squat",
+    "title": "Back Squat",
+    "display": "Back Squat (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Barbell",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/11/back-squat/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/11-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/11-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Back Squat. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bodyweight-squat": {
+    "id": 135,
+    "slug": "bodyweight-squat",
+    "title": "Bodyweight Squat",
+    "display": "Bodyweight Squat (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "No Equipment / Bodyweight",
+    "difficulty": "Beginner / Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/135/bodyweight-squat/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/135-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/135-2.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/135-3.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/135-4.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Erector Spinae",
+      "Transverse Abdominis",
+      "Gastrocnemius / Soleus"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Stand with feet slightly wider than hip-width, toes turned slightly outward (~10-15°). Depress and retract scapulae (pull shoulders down and back) with chest proud. Arms by your sides or held in front for counter-balance."
+      },
+      {
+        "phase": "Core Bracing",
+        "instruction": "Stiffen abdominal core muscles ('bracing') to stabilize the lumbar spine. Shift body weight back into heels and mid-foot while preparing to hinge hips backward."
+      },
+      {
+        "phase": "Downward Phase",
+        "instruction": "Initiate movement by sending hips backward and downward simultaneously. Track knees in direct line with the second toe. Avoid knee valgus (collapsing inward). Descend until thighs are parallel to floor (knee joint angle ~90°). Maintain parallel angle between shin (tibia) and torso."
+      },
+      {
+        "phase": "Upward Phase",
+        "instruction": "Exhale while driving through heels and mid-foot. Hips and shoulders rise at the identical rate, keeping back straight. Squeeze glutes and quads at top without hyperextending lumbar spine."
+      }
+    ]
+  },
+  "bosu-sup-reg-sup-lateral-jumps": {
+    "id": 119,
+    "slug": "bosu-sup-reg-sup-lateral-jumps",
+    "title": "BOSU Sup Reg Sup Lateral Jumps",
+    "display": "BOSU Sup Reg Sup Lateral Jumps (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/119/bosu-sup-reg-sup-lateral-jumps/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/119-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/119-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for BOSU Sup Reg Sup Lateral Jumps. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bosu-sup-reg-sup-squat-jumps": {
+    "id": 117,
+    "slug": "bosu-sup-reg-sup-squat-jumps",
+    "title": "BOSU Sup Reg Sup Squat Jumps",
+    "display": "BOSU Sup Reg Sup Squat Jumps (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "BOSU",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/117/bosu-sup-reg-sup-squat-jumps/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/117-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/117-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for BOSU Sup Reg Sup Squat Jumps. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "box-jumps": {
+    "id": 115,
+    "slug": "box-jumps",
+    "title": "Box Jumps",
+    "display": "Box Jumps (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Plyo Box",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/115/box-jumps/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/115-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/115-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Box Jumps. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "cycled-split-squat-jump": {
+    "id": 234,
+    "slug": "cycled-split-squat-jump",
+    "title": "Cycled Split Squat Jump",
+    "display": "Cycled Split Squat Jump (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/234/cycled-split-squat-jump/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/234-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/234-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Cycled Split Squat Jump. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "forward-cone-jumps": {
+    "id": 118,
+    "slug": "forward-cone-jumps",
+    "title": "Forward Cone Jumps",
+    "display": "Forward Cone Jumps (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/118/forward-cone-jumps/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/118-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/118-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Forward Cone Jumps. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bulgarian-split-squat": {
+    "id": 366,
+    "slug": "bulgarian-split-squat",
+    "title": "Bulgarian Split Squat",
+    "display": "Bulgarian Split Squat (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/366/bulgarian-split-squat/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/366-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/366-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Bulgarian Split Squat. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "crunch": {
+    "id": 52,
+    "slug": "crunch",
+    "title": "Crunch",
+    "display": "Crunch (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/52/crunch/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/52-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/52-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Crunch. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "decline-plank": {
+    "id": 304,
+    "slug": "decline-plank",
+    "title": "Decline Plank",
+    "display": "Decline Plank (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/304/decline-plank/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/304-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/304-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Decline Plank. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "dirty-dog": {
+    "id": 109,
+    "slug": "dirty-dog",
+    "title": "Dirty Dog",
+    "display": "Dirty Dog (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/109/dirty-dog/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/109-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/109-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Dirty Dog. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "forward-lunge": {
+    "id": 8,
+    "slug": "forward-lunge",
+    "title": "Forward Lunge",
+    "display": "Forward Lunge (ACE)",
+    "category": "Legs / Unilateral",
+    "equipment": "Bodyweight / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/8/forward-lunge/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/8-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/8-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Gastrocnemius",
+      "Abductors / Adductors",
+      "Core Stabilizers"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "90° (both knees)",
+    "formCue": "Lower hips vertically; keep front knee stacked directly over ankle.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Stand tall with feet hip-width apart, shoulders pulled down and back, hands on hips or holding weights at sides. Core braced and chest held high."
+      },
+      {
+        "phase": "Step Forward & Descent",
+        "instruction": "Step forward with one leg, landing heel first then rolling onto full foot. Lower hips straight down vertically until both front and trailing knees are bent at approximately 90° angles."
+      },
+      {
+        "phase": "Lowered Position Check",
+        "instruction": "Front knee is stacked directly above the front ankle and does not drift excessively past toes. Trailing knee hovers 1-2 inches above the floor without impacting the mat."
+      },
+      {
+        "phase": "Upward Return",
+        "instruction": "Exhale, push firmly through the front heel and mid-foot, and step backward in a single fluid motion to the starting upright position."
+      }
+    ]
+  },
+  "forward-lunge-with-arm-drivers": {
+    "id": 95,
+    "slug": "forward-lunge-with-arm-drivers",
+    "title": "Forward Lunge With Arm Drivers",
+    "display": "Forward Lunge With Arm Drivers (ACE)",
+    "category": "Legs / Unilateral",
+    "equipment": "Bodyweight / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/95/forward-lunge-with-arm-drivers/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/95-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/95-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Adductors",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "90° (both knees)",
+    "formCue": "Lower hips vertically; keep front knee stacked directly over ankle.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Forward Lunge With Arm Drivers. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lower hips vertically; keep front knee stacked directly over ankle."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "anti-rotation-reverse-lunge": {
+    "id": 348,
+    "slug": "anti-rotation-reverse-lunge",
+    "title": "Anti Rotation Reverse Lunge",
+    "display": "Anti Rotation Reverse Lunge (ACE)",
+    "category": "Legs / Unilateral",
+    "equipment": "Bodyweight / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/348/anti-rotation-reverse-lunge/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/348-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/348-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Adductors",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "90° (both knees)",
+    "formCue": "Lower hips vertically; keep front knee stacked directly over ankle.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Anti Rotation Reverse Lunge. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lower hips vertically; keep front knee stacked directly over ankle."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "asynchronous-waves": {
+    "id": 376,
+    "slug": "asynchronous-waves",
+    "title": "Asynchronous Waves",
+    "display": "Asynchronous Waves (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/376/asynchronous-waves/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/376-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/376-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Asynchronous Waves. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "bear-crawl": {
+    "id": 150,
+    "slug": "bear-crawl",
+    "title": "Bear Crawl",
+    "display": "Bear Crawl (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/150/bear-crawl/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/150-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/150-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Bear Crawl. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "burpee": {
+    "id": 306,
+    "slug": "burpee",
+    "title": "Burpee",
+    "display": "Burpee (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/306/burpee/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/306-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/306-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Burpee. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "clean-and-press": {
+    "id": 383,
+    "slug": "clean-and-press",
+    "title": "Clean And Press",
+    "display": "Clean And Press (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/383/clean-and-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/383-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/383-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Clean And Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "deadlift": {
+    "id": 6,
+    "slug": "deadlift",
+    "title": "Conventional Deadlift",
+    "display": "Deadlift (ACE)",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/6/deadlift/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/6-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/6-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Gluteus Maximus",
+      "Hamstrings",
+      "Erector Spinae"
+    ],
+    "secondaryMuscles": [
+      "Quadriceps",
+      "Latissimus Dorsi",
+      "Trapezius",
+      "Forearm Flexors"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "targetAngle": "75° - 85°",
+    "formCue": "Hinge at hips with flat back; push floor away through heels.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Stand behind the bar with feet hip- to shoulder-width apart, toes pointing forward or slightly angled outward. Bar directly over mid-foot (1-2 inches from shins)."
+      },
+      {
+        "phase": "Hinge & Grip",
+        "instruction": "Hinge deeply at hips while keeping chest lifted and spine neutral. Grip bar outside shins with double-overhand or alternated grip. Depress lats ('pack the shoulders') to lock upper back."
+      },
+      {
+        "phase": "Upward Drive (Concentric)",
+        "instruction": "Take a deep breath and brace core. Push the floor away through mid-foot and heels. Bar travels in a purely vertical linear path directly grazing the shins. Hips and chest rise together."
+      },
+      {
+        "phase": "Lockout & Return",
+        "instruction": "At top of pull, squeeze glutes and stand tall. Avoid hyperextending lower back. Return bar by hinging hips backward until bar passes knees, then bend knees to rest bar onto floor."
+      }
+    ]
+  },
+  "double-push-press": {
+    "id": 384,
+    "slug": "double-push-press",
+    "title": "Double Push Press",
+    "display": "Double Push Press (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/384/double-push-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/384-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/384-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Double Push Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "double-rotation-waves": {
+    "id": 378,
+    "slug": "double-rotation-waves",
+    "title": "Double Rotation Waves",
+    "display": "Double Rotation Waves (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/378/double-rotation-waves/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/378-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/378-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Double Rotation Waves. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "calf-raises": {
+    "id": 51,
+    "slug": "calf-raises",
+    "title": "Calf Raises",
+    "display": "Calf Raises (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/51-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/51-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Calf Raises. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "front-squat-to-overhead-press": {
+    "id": 315,
+    "slug": "front-squat-to-overhead-press",
+    "title": "Front Squat To Overhead Press",
+    "display": "Front Squat To Overhead Press (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/315-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/315-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Front Squat To Overhead Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "hang-clean": {
+    "id": 312,
+    "slug": "hang-clean",
+    "title": "Hang Clean",
+    "display": "Hang Clean (ACE)",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/312/hang-clean/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/312-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/312-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Gluteus Maximus",
+      "Hamstrings"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Lats",
+      "Forearms",
+      "Core"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "targetAngle": "75° - 85°",
+    "formCue": "Hinge at hips with flat back; push floor away through heels.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Hang Clean. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Hinge at hips with flat back; push floor away through heels."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "hip-bridge": {
+    "id": 318,
+    "slug": "hip-bridge",
+    "title": "Hip Bridge",
+    "display": "Hip Bridge (ACE)",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/318/hip-bridge/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/318-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/318-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Gluteus Maximus",
+      "Hamstrings"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Lats",
+      "Forearms",
+      "Core"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "targetAngle": "75° - 85°",
+    "formCue": "Hinge at hips with flat back; push floor away through heels.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Hip Bridge. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Hinge at hips with flat back; push floor away through heels."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "elevated-glute-bridge": {
+    "id": 367,
+    "slug": "elevated-glute-bridge",
+    "title": "Elevated Glute Bridge",
+    "display": "Elevated Glute Bridge (ACE)",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/367/elevated-glute-bridge/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/367-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/367-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Gluteus Maximus",
+      "Hamstrings"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Lats",
+      "Forearms",
+      "Core"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "targetAngle": "75° - 85°",
+    "formCue": "Hinge at hips with flat back; push floor away through heels.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Elevated Glute Bridge. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Hinge at hips with flat back; push floor away through heels."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "farmer-s-carry": {
+    "id": 359,
+    "slug": "farmer-s-carry",
+    "title": "Farmer S Carry",
+    "display": "Farmer S Carry (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/359/farmer-s-carry/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/359-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/359-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Farmer S Carry. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "goblet-squat": {
+    "id": 362,
+    "slug": "goblet-squat",
+    "title": "Goblet Squat",
+    "display": "Goblet Squat (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Kettlebell / Dumbbell",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/362/goblet-squat/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/362-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/362-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Goblet Squat. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "incline-reverse-fly": {
+    "id": 34,
+    "slug": "incline-reverse-fly",
+    "title": "Incline Reverse Fly",
+    "display": "Incline Reverse Fly (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/34/incline-reverse-fly/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/34-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/34-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Incline Reverse Fly. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "lateral-lunge": {
+    "id": 364,
+    "slug": "lateral-lunge",
+    "title": "Lateral Lunge",
+    "display": "Lateral Lunge (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/364/lateral-lunge/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/364-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/364-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Lateral Lunge. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "figure-eight": {
+    "id": 382,
+    "slug": "figure-eight",
+    "title": "Figure Eight",
+    "display": "Figure Eight (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/382/figure-eight/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/382-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/382-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Figure Eight. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "half-turkish-get-up": {
+    "id": 381,
+    "slug": "half-turkish-get-up",
+    "title": "Half Turkish Get Up",
+    "display": "Half Turkish Get Up (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/381/half-turkish-get-up/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/381-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/381-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Half Turkish Get Up. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "high-windmill": {
+    "id": 386,
+    "slug": "high-windmill",
+    "title": "High Windmill",
+    "display": "High Windmill (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/386/high-windmill/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/386-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/386-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for High Windmill. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "low-windmill": {
+    "id": 387,
+    "slug": "low-windmill",
+    "title": "Low Windmill",
+    "display": "Low Windmill (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/387/low-windmill/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/387-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/387-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Low Windmill. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "pull-over-crunch": {
+    "id": 380,
+    "slug": "pull-over-crunch",
+    "title": "Pull Over Crunch",
+    "display": "Pull Over Crunch (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/380/pull-over-crunch/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/380-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/380-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Pull Over Crunch. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "push-jerk": {
+    "id": 385,
+    "slug": "push-jerk",
+    "title": "Push Jerk",
+    "display": "Push Jerk (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/385/push-jerk/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/385-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/385-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Push Jerk. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "single-arm-overhead-press": {
+    "id": 395,
+    "slug": "single-arm-overhead-press",
+    "title": "Single Arm Overhead Press",
+    "display": "Single Arm Overhead Press (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/395/single-arm-overhead-press/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/395-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/395-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Single Arm Overhead Press. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "single-arm-overhead-squat": {
+    "id": 393,
+    "slug": "single-arm-overhead-squat",
+    "title": "Single Arm Overhead Squat",
+    "display": "Single Arm Overhead Squat (ACE)",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/393/single-arm-overhead-squat/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/393-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/393-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Quadriceps",
+      "Gluteus Maximus"
+    ],
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ],
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "85° - 95°",
+    "formCue": "Sit back into heels, track knees over second toe, descend to parallel.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Single Arm Overhead Squat. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Sit back into heels, track knees over second toe, descend to parallel."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "ankle-flexion": {
+    "id": 23,
+    "slug": "ankle-flexion",
+    "title": "Ankle Flexion",
+    "display": "Ankle Flexion (ACE)",
+    "category": "Calves",
+    "equipment": "Dumbbells / Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/23/ankle-flexion/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/23-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/23-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Gastrocnemius",
+      "Soleus"
+    ],
+    "secondaryMuscles": [
+      "Tibialis Anterior"
+    ],
+    "primaryJoint": "ankle",
+    "landmarks": {
+      "A": 25,
+      "B": 27,
+      "C": 31
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 120
+    },
+    "targetAngle": "115° - 125°",
+    "formCue": "Pause at full plantarflexion contraction for 1 second.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Ankle Flexion. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Pause at full plantarflexion contraction for 1 second."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "high-row": {
+    "id": 336,
+    "slug": "high-row",
+    "title": "High Row",
+    "display": "High Row (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/336/high-row/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/336-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/336-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for High Row. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "high-low-partner-see-saw": {
+    "id": 289,
+    "slug": "high-low-partner-see-saw",
+    "title": "High Low Partner See Saw",
+    "display": "High Low Partner See Saw (ACE)",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/289/high-low-partner-see-saw/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/289-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/289-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Core",
+      "Full Body"
+    ],
+    "secondaryMuscles": [
+      "Stabilizers"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "90°",
+    "formCue": "Maintain neutral spine and control movement tempo.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for High Low Partner See Saw. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Maintain neutral spine and control movement tempo."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "kneeling-hay-baler": {
+    "id": 341,
+    "slug": "kneeling-hay-baler",
+    "title": "Kneeling Hay Baler",
+    "display": "Kneeling Hay Baler (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Cables / Tubing",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/341/kneeling-hay-baler/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/341-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/341-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Kneeling Hay Baler. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "kneeling-lat-pulldown": {
+    "id": 35,
+    "slug": "kneeling-lat-pulldown",
+    "title": "Kneeling Lat Pulldown",
+    "display": "Kneeling Lat Pulldown (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/35/kneeling-lat-pulldown/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/35-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/35-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Kneeling Lat Pulldown. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "kneeling-reverse-fly": {
+    "id": 128,
+    "slug": "kneeling-reverse-fly",
+    "title": "Kneeling Reverse Fly",
+    "display": "Kneeling Reverse Fly (ACE)",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/128/kneeling-reverse-fly/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/128-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/128-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Pectoralis Major",
+      "Anterior Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "targetAngle": "80° - 90°",
+    "formCue": "Keep elbows at 45-60 degrees; do not flare to 90 degrees.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Kneeling Reverse Fly. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "kneeling-wood-chop": {
+    "id": 340,
+    "slug": "kneeling-wood-chop",
+    "title": "Kneeling Wood Chop",
+    "display": "Kneeling Wood Chop (ACE)",
+    "category": "Abs & Core",
+    "equipment": "Cables / Tubing",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/340/kneeling-wood-chop/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/340-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/340-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Rectus Abdominis",
+      "Transverse Abdominis",
+      "Obliques"
+    ],
+    "secondaryMuscles": [
+      "Erector Spinae",
+      "Gluteal Stabilizers",
+      "Shoulders"
+    ],
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Brace abdominal wall; avoid arching lower back or holding breath.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Kneeling Wood Chop. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Brace abdominal wall; avoid arching lower back or holding breath."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "lateral-lunge-wood-chop": {
+    "id": 347,
+    "slug": "lateral-lunge-wood-chop",
+    "title": "Lateral Lunge Wood Chop",
+    "display": "Lateral Lunge Wood Chop (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/347/lateral-lunge-wood-chop/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/347-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/347-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Lateral Lunge Wood Chop. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "lunge-to-single-arm-row": {
+    "id": 345,
+    "slug": "lunge-to-single-arm-row",
+    "title": "Lunge To Single Arm Row",
+    "display": "Lunge To Single Arm Row (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/345/lunge-to-single-arm-row/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/345-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/345-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Lunge To Single Arm Row. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "partner-standing-row-with-resistance-tubing": {
+    "id": 267,
+    "slug": "partner-standing-row-with-resistance-tubing",
+    "title": "Partner Standing Row With Resistance Tubing",
+    "display": "Partner Standing Row With Resistance Tubing (ACE)",
+    "category": "Back / Pull",
+    "equipment": "Resistance Bands",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/267/partner-standing-row-with-resistance-tubing/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/267-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/267-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Latissimus Dorsi",
+      "Rhomboids",
+      "Trapezius"
+    ],
+    "secondaryMuscles": [
+      "Biceps Brachii",
+      "Posterior Deltoids",
+      "Erector Spinae"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "targetAngle": "60° - 75°",
+    "formCue": "Retract scapulae and pull with elbows rather than biceps.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Partner Standing Row With Resistance Tubing. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Retract scapulae and pull with elbows rather than biceps."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "partner-tricep-extension": {
+    "id": 269,
+    "slug": "partner-tricep-extension",
+    "title": "Partner Tricep Extension",
+    "display": "Partner Tricep Extension (ACE)",
+    "category": "Arms",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/269/partner-tricep-extension/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/269-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/269-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Triceps Brachii"
+    ],
+    "secondaryMuscles": [
+      "Anterior Deltoids"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 60,
+      "up": 165
+    },
+    "targetAngle": "165° - 175°",
+    "formCue": "Lock upper arms stationary and extend from elbows only.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Partner Tricep Extension. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock upper arms stationary and extend from elbows only."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  },
+  "calf-raise": {
+    "id": 294,
+    "slug": "calf-raise",
+    "title": "Calf Raise",
+    "display": "Calf Raise (ACE)",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "difficulty": "Intermediate",
+    "aceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/294/calf-raise/",
+    "images": [
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/294-1.jpg",
+      "https://ik.imagekit.io/02fmeo4exvw/exercise-library/large/294-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pG4BEGEQHiA?enablejsapi=1",
+    "primaryMuscles": [
+      "Anterior Deltoids",
+      "Medial Deltoids"
+    ],
+    "secondaryMuscles": [
+      "Triceps Brachii",
+      "Upper Trapezius",
+      "Core"
+    ],
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "targetAngle": "170° - 180°",
+    "formCue": "Lock core and glutes to avoid hyperextending lower back at lockout.",
+    "steps": [
+      {
+        "phase": "Starting Position",
+        "instruction": "Assume proper stance for Calf Raise. Brace core, retract scapulae, and align joints according to ACE standards."
+      },
+      {
+        "phase": "Movement Execution",
+        "instruction": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      },
+      {
+        "phase": "Return / Lockout",
+        "instruction": "Control eccentric return to starting posture under full muscular tension."
+      }
+    ]
+  }
+}

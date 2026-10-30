@@ -1,0 +1,82 @@
+{
+  "general": [
+    "Breathe out on the exertion phase.",
+    "Keep your core braced throughout the movement.",
+    "Control the eccentric — don't let gravity do the work.",
+    "Full range of motion beats heavy weight with bad form.",
+    "Slow down if your form is breaking — quality over quantity."
+  ],
+  "squat": {
+    "setup": "Feet shoulder-width apart, toes slightly out.",
+    "errors": {
+      "kneeCave":    "Knees caving inward — drive them out over your toes.",
+      "tooDeep":     "Depth is good, but keep your chest up.",
+      "leanForward": "Too much forward lean — sit back, chest up."
+    },
+    "tips": [
+      "Imagine sitting back onto a chair.",
+      "Keep your weight in your heels and mid-foot.",
+      "Big breath in before descending, out on the way up."
+    ]
+  },
+  "deadlift": {
+    "setup": "Bar over mid-foot, hip-width stance.",
+    "errors": {
+      "roundedBack": "Back rounding — hinge at hips, keep spine neutral.",
+      "barPath":     "Bar drifting forward — keep it close to your body throughout."
+    },
+    "tips": [
+      "Think 'push the floor away' rather than 'pull the bar up'.",
+      "Squeeze glutes hard at lockout.",
+      "Keep lats engaged — protect your lower back."
+    ]
+  },
+  "bicepCurl": {
+    "setup": "Stand tall, elbows pinned at your sides.",
+    "errors": {
+      "elbowFlare": "Elbow flaring — pin it tight to your torso.",
+      "swinging":   "Body swinging — reduce the weight and go strict."
+    },
+    "tips": [
+      "Supinate (rotate palm up) at the top for a peak contraction.",
+      "Go all the way down — full extension matters.",
+      "Pause 1 sec at the top and bottom."
+    ]
+  },
+  "shoulderPress": {
+    "setup": "Bar at chin level, grip slightly wider than shoulders.",
+    "errors": {
+      "archingBack": "Lower back arching — squeeze glutes and brace your core.",
+      "unevenPress": "One arm leading — focus on pressing symmetrically."
+    },
+    "tips": [
+      "Tuck chin slightly as bar passes your face.",
+      "Lock out fully at the top.",
+      "Keep wrists straight, not bent back."
+    ]
+  },
+  "pushup": {
+    "setup": "Hands slightly wider than shoulders, body in a straight line.",
+    "errors": {
+      "hipSag":   "Hips sagging — engage your core and glutes.",
+      "headDrop": "Head dropping — keep eyes looking slightly forward."
+    },
+    "tips": [
+      "Elbows at 45° from your body, not flared out wide.",
+      "Think of 'pushing the floor away'.",
+      "Squeeze your chest at the top."
+    ]
+  },
+  "lunge": {
+    "setup": "Stand tall, step forward with control.",
+    "errors": {
+      "kneePastToe": "Front knee past toes — take a bigger step forward.",
+      "torsoLean":   "Torso leaning forward — stand more upright."
+    },
+    "tips": [
+      "Keep your front shin as vertical as possible.",
+      "Drive through the heel of your front foot to stand up.",
+      "Alternate legs for balanced development."
+    ]
+  }
+}

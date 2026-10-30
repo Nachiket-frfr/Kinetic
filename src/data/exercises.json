@@ -1,0 +1,2134 @@
+{
+  "bent-knee-push-up": {
+    "display": "Bent Knee Push Up",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "bottom-up-press": {
+    "display": "Bottom Up Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "cat-cow": {
+    "display": "Cat Cow",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "chest-press": {
+    "display": "Chest Press",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "ckc-parascapular-exercises": {
+    "display": "CKC Parascapular Exercises",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "close-grip-bench-press": {
+    "display": "Close Grip Bench Press",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "halo": {
+    "display": "Halo",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "inchworms": {
+    "display": "Inchworms",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "incline-chest-press": {
+    "display": "Incline Chest Press",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "lying-chest-fly": {
+    "display": "Lying Chest Fly",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "lying-pullovers": {
+    "display": "Lying Pullovers",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "90-lat-stretch": {
+    "display": "90 Lat Stretch",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "bent-over-row": {
+    "display": "Bent Over Row",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "bird-dog": {
+    "display": "Bird Dog",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "childs-pose": {
+    "display": "Childs Pose",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "chin-ups": {
+    "display": "Chin Ups",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "cobra": {
+    "display": "Cobra",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "contralateral-limb-raises": {
+    "display": "Contralateral Limb Raises",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "downward-facing-dog": {
+    "display": "Downward Facing Dog",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "front-plank": {
+    "display": "Front Plank",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "front-squat": {
+    "display": "Front Squat",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "glute-bridge-single-leg-progression": {
+    "display": "Glute Bridge Single Leg Progression",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 80,
+        "message": "Hinge at hips with flat back; push floor away through heels."
+      }
+    }
+  },
+  "barbell-jammers": {
+    "display": "Barbell Jammers",
+    "category": "Shoulders",
+    "equipment": "Barbell",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "diagonal-raise": {
+    "display": "Diagonal Raise",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "front-raise": {
+    "display": "Front Raise",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "high-plank-t-spine-rotation": {
+    "display": "High Plank T Spine Rotation",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "bicep-curl": {
+    "display": "Barbell / Dumbbell Bicep Curl",
+    "category": "Arms",
+    "equipment": "Dumbbells / Barbell",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 155,
+      "up": 40
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 155,
+        "message": "Pin elbows to ribcage and eliminate torso swing."
+      }
+    }
+  },
+  "hammer-curl": {
+    "display": "Hammer Curl",
+    "category": "Arms",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 155,
+      "up": 40
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 155,
+        "message": "Pin elbows to ribcage and eliminate torso swing."
+      }
+    }
+  },
+  "lying-barbell-triceps-extensions": {
+    "display": "Lying Barbell Triceps Extensions",
+    "category": "Arms",
+    "equipment": "Barbell",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 60,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 60,
+        "message": "Lock upper arms stationary and extend from elbows only."
+      }
+    }
+  },
+  "overhead-triceps-stretch": {
+    "display": "Overhead Triceps Stretch",
+    "category": "Arms",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 60,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 60,
+        "message": "Lock upper arms stationary and extend from elbows only."
+      }
+    }
+  },
+  "agility-ladder-lateral-shuffle": {
+    "display": "Agility Ladder Lateral Shuffle",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "alternate-leg-push-off": {
+    "display": "Alternate Leg Push Off",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "back-squat": {
+    "display": "Back Squat",
+    "category": "Legs / Quads",
+    "equipment": "Barbell",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "bodyweight-squat": {
+    "display": "Bodyweight Squat",
+    "category": "Legs / Quads",
+    "equipment": "No Equipment / Bodyweight",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "bosu-sup-reg-sup-lateral-jumps": {
+    "display": "BOSU Sup Reg Sup Lateral Jumps",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "bosu-sup-reg-sup-squat-jumps": {
+    "display": "BOSU Sup Reg Sup Squat Jumps",
+    "category": "Legs / Quads",
+    "equipment": "BOSU",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "box-jumps": {
+    "display": "Box Jumps",
+    "category": "Legs / Quads",
+    "equipment": "Plyo Box",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "cycled-split-squat-jump": {
+    "display": "Cycled Split Squat Jump",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "forward-cone-jumps": {
+    "display": "Forward Cone Jumps",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "bulgarian-split-squat": {
+    "display": "Bulgarian Split Squat",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "crunch": {
+    "display": "Crunch",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "decline-plank": {
+    "display": "Decline Plank",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "dirty-dog": {
+    "display": "Dirty Dog",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "forward-lunge": {
+    "display": "Forward Lunge",
+    "category": "Legs / Unilateral",
+    "equipment": "Bodyweight / Dumbbells",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Lower hips vertically; keep front knee stacked directly over ankle."
+      }
+    }
+  },
+  "forward-lunge-with-arm-drivers": {
+    "display": "Forward Lunge With Arm Drivers",
+    "category": "Legs / Unilateral",
+    "equipment": "Bodyweight / Dumbbells",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Lower hips vertically; keep front knee stacked directly over ankle."
+      }
+    }
+  },
+  "anti-rotation-reverse-lunge": {
+    "display": "Anti Rotation Reverse Lunge",
+    "category": "Legs / Unilateral",
+    "equipment": "Bodyweight / Dumbbells",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Lower hips vertically; keep front knee stacked directly over ankle."
+      }
+    }
+  },
+  "asynchronous-waves": {
+    "display": "Asynchronous Waves",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "bear-crawl": {
+    "display": "Bear Crawl",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "burpee": {
+    "display": "Burpee",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "clean-and-press": {
+    "display": "Clean And Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "deadlift": {
+    "display": "Conventional Deadlift",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 80,
+        "message": "Hinge at hips with flat back; push floor away through heels."
+      }
+    }
+  },
+  "double-push-press": {
+    "display": "Double Push Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "double-rotation-waves": {
+    "display": "Double Rotation Waves",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "calf-raises": {
+    "display": "Calf Raises",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "front-squat-to-overhead-press": {
+    "display": "Front Squat To Overhead Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "hang-clean": {
+    "display": "Hang Clean",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 80,
+        "message": "Hinge at hips with flat back; push floor away through heels."
+      }
+    }
+  },
+  "hip-bridge": {
+    "display": "Hip Bridge",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 80,
+        "message": "Hinge at hips with flat back; push floor away through heels."
+      }
+    }
+  },
+  "elevated-glute-bridge": {
+    "display": "Elevated Glute Bridge",
+    "category": "Glutes & Hamstrings",
+    "equipment": "Barbell / Dumbbells",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 80,
+        "message": "Hinge at hips with flat back; push floor away through heels."
+      }
+    }
+  },
+  "farmer-s-carry": {
+    "display": "Farmer S Carry",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "goblet-squat": {
+    "display": "Goblet Squat",
+    "category": "Legs / Quads",
+    "equipment": "Kettlebell / Dumbbell",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "incline-reverse-fly": {
+    "display": "Incline Reverse Fly",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "lateral-lunge": {
+    "display": "Lateral Lunge",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "figure-eight": {
+    "display": "Figure Eight",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "half-turkish-get-up": {
+    "display": "Half Turkish Get Up",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "high-windmill": {
+    "display": "High Windmill",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "low-windmill": {
+    "display": "Low Windmill",
+    "category": "Abs & Core",
+    "equipment": "Bodyweight / Mat",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "pull-over-crunch": {
+    "display": "Pull Over Crunch",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "push-jerk": {
+    "display": "Push Jerk",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "single-arm-overhead-press": {
+    "display": "Single Arm Overhead Press",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  },
+  "single-arm-overhead-squat": {
+    "display": "Single Arm Overhead Squat",
+    "category": "Legs / Quads",
+    "equipment": "Bodyweight",
+    "primaryJoint": "knee",
+    "landmarks": {
+      "A": 23,
+      "B": 25,
+      "C": 27
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          23,
+          25,
+          27
+        ],
+        "threshold": 90,
+        "message": "Sit back into heels, track knees over second toe, descend to parallel."
+      }
+    }
+  },
+  "ankle-flexion": {
+    "display": "Ankle Flexion",
+    "category": "Calves",
+    "equipment": "Dumbbells / Bodyweight",
+    "primaryJoint": "ankle",
+    "landmarks": {
+      "A": 25,
+      "B": 27,
+      "C": 31
+    },
+    "repPhase": {
+      "down": 80,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          25,
+          27,
+          31
+        ],
+        "threshold": 80,
+        "message": "Pause at full plantarflexion contraction for 1 second."
+      }
+    }
+  },
+  "high-row": {
+    "display": "High Row",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "high-low-partner-see-saw": {
+    "display": "High Low Partner See Saw",
+    "category": "Full Body / Integrated",
+    "equipment": "Bodyweight",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 90,
+        "message": "Maintain neutral spine and control movement tempo."
+      }
+    }
+  },
+  "kneeling-hay-baler": {
+    "display": "Kneeling Hay Baler",
+    "category": "Abs & Core",
+    "equipment": "Cables / Tubing",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "kneeling-lat-pulldown": {
+    "display": "Kneeling Lat Pulldown",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "kneeling-reverse-fly": {
+    "display": "Kneeling Reverse Fly",
+    "category": "Chest / Push",
+    "equipment": "Bodyweight",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 160
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 90,
+        "message": "Keep elbows at 45-60 degrees; do not flare to 90 degrees."
+      }
+    }
+  },
+  "kneeling-wood-chop": {
+    "display": "Kneeling Wood Chop",
+    "category": "Abs & Core",
+    "equipment": "Cables / Tubing",
+    "primaryJoint": "hip",
+    "landmarks": {
+      "A": 11,
+      "B": 23,
+      "C": 25
+    },
+    "repPhase": {
+      "down": 160,
+      "up": 120
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          23,
+          25
+        ],
+        "threshold": 160,
+        "message": "Brace abdominal wall; avoid arching lower back or holding breath."
+      }
+    }
+  },
+  "lateral-lunge-wood-chop": {
+    "display": "Lateral Lunge Wood Chop",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "lunge-to-single-arm-row": {
+    "display": "Lunge To Single Arm Row",
+    "category": "Back / Pull",
+    "equipment": "Pull-up Bar",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "partner-standing-row-with-resistance-tubing": {
+    "display": "Partner Standing Row With Resistance Tubing",
+    "category": "Back / Pull",
+    "equipment": "Resistance Bands",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 150,
+      "up": 60
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 150,
+        "message": "Retract scapulae and pull with elbows rather than biceps."
+      }
+    }
+  },
+  "partner-tricep-extension": {
+    "display": "Partner Tricep Extension",
+    "category": "Arms",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 11,
+      "B": 13,
+      "C": 15
+    },
+    "repPhase": {
+      "down": 60,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          11,
+          13,
+          15
+        ],
+        "threshold": 60,
+        "message": "Lock upper arms stationary and extend from elbows only."
+      }
+    }
+  },
+  "calf-raise": {
+    "display": "Calf Raise",
+    "category": "Shoulders",
+    "equipment": "Dumbbells",
+    "primaryJoint": "elbow",
+    "landmarks": {
+      "A": 13,
+      "B": 11,
+      "C": 23
+    },
+    "repPhase": {
+      "down": 90,
+      "up": 165
+    },
+    "formChecks": {
+      "primaryCheck": {
+        "joints": [
+          13,
+          11,
+          23
+        ],
+        "threshold": 90,
+        "message": "Lock core and glutes to avoid hyperextending lower back at lockout."
+      }
+    }
+  }
+}
